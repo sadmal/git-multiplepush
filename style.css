@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    height: 100vh;
+}
+.navbar{
+    background-color: rgb(170, 148, 26);
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    padding: 10px;
+    font-size: larger;
+}
+.heading{
+    text-align: center;
+}
+.sports-name{
+    height:88vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+}
+img{
+    width:250px;
+}
+.footer{
+    background-color:rgb(170, 148, 26);
+    font-weight: bold;
+}
